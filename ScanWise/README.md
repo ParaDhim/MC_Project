@@ -2,7 +2,7 @@
 
 A powerful document scanning and management application with OCR, translation, and accessibility features.
 
-**Developed by:** N Narotam (2021477) & Paras Dhiman (2021482)
+**Developed by:** Paras Dhiman (2021482) & N Narotam (2021477)
 
 ## Screenshots
 
