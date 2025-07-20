@@ -4,24 +4,6 @@ A powerful document scanning and management application with OCR, translation, a
 
 **Developed by:** N Narotam (2021477) & Paras Dhiman (2021482)
 
-## Screenshots
-
-<table>
-  <tr>
-    <td><img src="app/src/main/res/drawable/img1.png" width="150"/></td>
-    <td><img src="app/src/main/res/drawable/img2.png" width="150"/></td>
-    <td><img src="app/src/main/res/drawable/img3.png" width="150"/></td>
-  </tr>
-  <tr>
-    <td><img src="app/src/main/res/drawable/img4.png" width="150"/></td>
-    <td><img src="app/src/main/res/drawable/img5.png" width="150"/></td>
-    <td><img src="app/src/main/res/drawable/img6.png" width="150"/></td>
-  </tr>
-  <tr>
-    <td><img src="app/src/main/res/drawable/img7.png" width="150"/></td>
-  </tr>
-</table>
-
 ## Overview
 
 ScanWise is an Android application that enables users to scan documents, extract text using Google ML Kit's OCR capabilities, and manage the documents locally. The app is designed with accessibility in mind, featuring translation services and text-to-speech functionality to make document content accessible to a wider audience.
